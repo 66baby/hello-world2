@@ -15,7 +15,7 @@ public class Chessboard {
 	private String[][] board;
 	// 定义棋盘的大小
 	public static final int BOARD_SIZE = 22;
-
+///////////////
 	/**
 	 * 初始化棋盘
 	 * 
