@@ -29,6 +29,7 @@ public class Chessboard {
 			for (int j = 0; j < BOARD_SIZE; j++) {
 				board[i][j] = "ʮ";
 			}
+			//
 		}
 	}
 	
