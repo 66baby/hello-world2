@@ -40,7 +40,7 @@ public class Chessboard {
 			}
 		}
 	}
-
+///
 	/**
 	 * 在控制台输出棋盘的方法
 	 */
